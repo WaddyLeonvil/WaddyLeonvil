@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Waddy Leonvil</h1>
 <h3 align="center">A passionate frontend developer from Boynton Beach, FL</h3>
 
-- 🔭 I’m currently working on [ReactCalculator](https://github.com/WaddyLeonvil/ReactCalculator), [WeatherApp](https://github.com/WaddyLeonvil/WeatherApp), and [NBATracker](https://github.com/WaddyLeonvil/NBATracker).
+- 🔭 I’m currently working on [ReactCalculator](https://github.com/WaddyLeonvil/ReactCalculator), and [E-Commerce App](https://github.com/WaddyLeonvil/ECommerceApp).
 
-- 🌱 I’m currently learning **Node.js** and **Vue.js**
+- 🌱 I’m currently learning **Sass**, **Angular.js** and **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://waddyleonvil.netlify.app](https://waddyleonvil.netlify.app)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** and **Node.js**
 
 - 📫 How to reach me **waddyleonvil@gmail.com**
 
