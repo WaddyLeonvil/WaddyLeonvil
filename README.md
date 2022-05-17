@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ReactCalculator](https://github.com/WaddyLeonvil/ReactCalculator), and [E-Commerce App](https://github.com/WaddyLeonvil/ECommerceApp).
 
-- 🌱 I’m currently learning **Angular.js**, **Vue.js**, and **Sass**
+- 🌱 I’m currently learning **Sass**, **Angular.js**, and **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://waddyleonvil.netlify.app](https://waddyleonvil.netlify.app)
 
